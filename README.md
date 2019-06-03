@@ -64,6 +64,6 @@ pub trait VRF<PublicKey, SecretKey> {
 
 ## License
 
-`vrf-rs` is published under the [GNU General Public License v3.0][license].
+`vrf-rs` is published under the [MIT license][license].
 
 [license]: https://github.com/witnet/vrf-rs/blob/master/LICENSE
